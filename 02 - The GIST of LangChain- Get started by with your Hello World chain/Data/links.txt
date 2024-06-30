@@ -1,0 +1,14 @@
+pipenv-crash-course-In-case-you-are-not-familiar-with-pipenv-
+https://www.youtube.com/watch?v=6Qmnh5C4Pmo&t=1s
+
+handling-environment-variables-in-python-in-case-you-arent-familiar-with-it-
+https://www.youtube.com/watch?v=8dlQ_nDE7dQ&t=210s
+
+pipenv cheat sheet
+https://gist.github.com/bradtraversy/c70a93d6536ed63786c434707b898d55
+
+004 LangChain-Python-Documentation
+https://python.langchain.com/en/latest/
+
+004 LangChain-Quickstart
+https://python.langchain.com/docs/get_started/quickstart
